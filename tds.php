@@ -1,3 +1,4 @@
+#Recode-
 <?php
 //mau
 error_reporting(0);
