@@ -378,7 +378,7 @@ echo "\033[1;32mĐang Dùng FB: \033[1;33m".$tenfb."\033[1;32m ID:\033[1;33m ".$
 
 } else {
   echo "\r";
-    echo $white." => ".$red."Cấu Hình Thất Bại Có Thể Do Bạn Chưa Thêm $tenfb Vào Cấu Hình\n";
+    echo $white." => ".$red."Akun Belum Di Tambahkan Ke Konfigurasi $tenfb Vào Cấu Hình\n";
     exit;
 }
 $spam = 0;
