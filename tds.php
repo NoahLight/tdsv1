@@ -1222,7 +1222,7 @@ function delay2($time){
   for($j = $time;$j> 0;$j--){
     echo "\r";
     echo "                                                      \r";
-    echo $green."Đang Chờ Delay Tránh Block$yellow $j Giây";
+    echo $green."Waktu Berhenti Misi$yellow $j Giây";
              sleep(1);
       
            }
