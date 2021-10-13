@@ -265,10 +265,10 @@ exit ($info["error"]);
 $dem = 0;
 //khac
 $khocookie = [];
-echo $do."[".$luc."●".$do."] ".$trang."=> ".$whiteb."Nhập Số Cookie Cần Làm: \033[1;33m";
+echo $do."[".$luc."●".$do."] ".$trang."=> ".$whiteb."Masukan Jumlah Cookie: \033[1;33m";
 $luong=trim(fgets(STDIN));
 for($a = 1; $a <= $luong;$a++){
-echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Nhập Cookie Thứ $a: $vang";
+echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Masukan Cookie $a: $vang";
 $nhapck = (string)trim(fgets(STDIN));
 array_push($khocookie,$nhapck);
   }
@@ -1205,10 +1205,10 @@ function login($tokentds){
 }
 function banner(){
 $t = "
-║   \033[1;92m   \033[1;91mBản Quyền:Hào-TOOL         \e[1;33m║
-\e[1;33m║  \033[1;92m    \033[1;96mYouTube: Hào Thái         \e[1;33m║
+║   \033[1;92m   \033[1;91m Author: Aditya       \e[1;33m║
+\e[1;33m║  \033[1;92m    \033[1;96mYouTube: xxxx         \e[1;33m║
 \e[1;33m║    \033[1;92m   \033[1;97mWebsite:\e[1;33m║
-\e[1;33m║   \033[1;92m  \033[1;94mTool Trao Đổi Sub Vip3          \e[1;33m║
+\e[1;33m║   \033[1;92m  \033[1;94mTools Vip3          \e[1;33m║
 ";
 echo "\e[1;33m╔═════════════════════════════════════════════════════╗\n";
 echo "║                                                     ║";
