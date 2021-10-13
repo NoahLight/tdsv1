@@ -319,16 +319,16 @@ echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."7".$d
 echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."8".$do."]".$luc."  Awaited\n"; 
 echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Pilih Tools ( Recommended 2 ): $vang"; 
 $nhiemvu = trim(fgets(STDIN));
-echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Masukan Waktu Misi : $vang"; 
+echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Masukan Waktu Misi ": $vang"; 
 $thoigianmin = trim(fgets(STDIN));
 $thoigianmax = $thoigianmin;
 echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Waktu Block Misi : $vang"; 
 $xxxxx = trim(fgets(STDIN));
 echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Setelah ".$vang.$xxxxx.$luc." Waktu Berhenti: $vang"; 
 $delaybl = trim(fgets(STDIN));
-echo $do."[".$luc."●".$do."] ".$trang."=> ".$" Total Misi : $vang"; 
+echo $do."[".$luc."●".$do."] ".$trang."=> ".$" Total Misi ": $vang"; 
 $doinick = trim(fgets(STDIN));
-echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc." Total Misi Berhenti : $vang"; 
+echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc." Total Misi Berhenti ": $vang"; 
 $dungtool = trim(fgets(STDIN));
 sleep(1);
 for($i=0; $i<=15; $i++){
