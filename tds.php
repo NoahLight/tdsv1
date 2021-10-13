@@ -190,7 +190,7 @@ echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$hong." Recode : Aditya\
 echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$blu." https://www.facebook.com/shubham.vishwakrma.3532\n";
 echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$cyan." Wa : 085322904155\n";
 echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$red." github : https://github.com/NoahLight\n";
-echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$xduong. Recode tools : ".$bluelight."Wa : 085322904155\n";
+echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$xduong." Recode tools : ".$bluelight." Wa : 085322904155\n";
 for ($makep=38;$makep > 0;$makep--){
 echo $res."-";
 usleep(2500);
