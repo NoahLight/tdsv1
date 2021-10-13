@@ -186,11 +186,11 @@ echo $red."-";
 }
 echo "\n";
 echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$luc."Hôm Nay Là $vang$ngay Tháng $luc$thang Năm $hong$nam\n";
-echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$hong." Bản Quyền : Thành Đạt\n";
-echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$blu." https://www.facebook.com/phamthanhdattool\n";
-echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$cyan." Zalo : 0839719287\n";
-echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$red." Ví MoMo : ".$bluelight."0839719287\n";
-echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$xduong." Mua Tool Lên Hệ Ngay : ".$bluelight."Zalo:0839719287\n";
+echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$hong." Recode : Aditya\n";
+echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$blu." https://www.facebook.com/shubham.vishwakrma.3532\n";
+echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$cyan." Wa : 085322904155\n";
+echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$red." github : https://github.com/NoahLight\n";
+echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$xduong. Recode tools : ".$bluelight."Wa : 085322904155\n";
 for ($makep=38;$makep > 0;$makep--){
 echo $res."-";
 usleep(2500);
@@ -287,21 +287,21 @@ echo $red."-";
 }
 echo "\n";
 echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$luc."Hôm Nay Là $vang$ngay Tháng $luc$thang Năm $hong$nam\n";
-echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$hong." Bản Quyền : Thành Đạt\n";
-echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$blu." https://www.facebook.com/phamthanhdattool\n";
-echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$cyan." Zalo : 0839719387\n";
-echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$red." Ví MoMo : ".$bluelight."0839719287\n";
-echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$xduong." Mua Tool Lên Hệ Ngay : ".$bluelight."Zalo:0839719287\n";
+echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$hong." Recode By : Aditya\n";
+echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$blu." https://github.com/NoahLight\n";
+echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$cyan." Wa : 085xxxxxx\n";
+echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$red." Hp : ".$bluelight."085xxxxxx\n";
+echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$xduong." Laporan Bug Dan Pembaruan : ".$bluelight."Wa : 085xxxxxx\n";
 for ($makep=38;$makep > 0;$makep--){
 echo $res."-";
 usleep(2500);
 echo $red."-";
 }
 echo "\n";
-echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Tài Khoản TDS: ".$vang.$user."\n";
-echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Số Xu Hiện Tại: ".$vang.$xuhientai."\n";
-echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Đang Dùng: ".$vang.$demcki."\033[1;32m Nick Chạy\n";
-echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Bắt Đầu Chạy Tool Vào Lúc: ".$vang.$time."\n";
+echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Nama Akun TDS: ".$vang.$user."\n";
+echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Total Uang: ".$vang.$xuhientai."\n";
+echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Menggunakan Akun: ".$vang.$demcki."\033[1;32m Nick Akun\n";
+echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Waktu Mulai: ".$vang.$time."\n";
 for($i=0; $i<=15; $i++){
 echo "\033[1;31m─ ";
 usleep(20000);
@@ -309,26 +309,26 @@ echo "\033[1;37m─ ";
 usleep(20000);
 }
 echo "\n";
-echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Nhập ".$do."[".$vang."1".$do."]".$luc." Nhiệm Vụ Like\n"; 
-echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Nhập ".$do."[".$vang."2".$do."]".$luc." Nhiệm Vụ Follow\n"; 
-echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Nhập ".$do."[".$vang."3".$do."]".$luc." Nhiệm Vụ Cảm Xúc\n"; 
-echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Nhập ".$do."[".$vang."4".$do."]".$luc." Nhiệm Vụ Comment\n"; 
-echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Nhập ".$do."[".$vang."5".$do."]".$luc." Nhiệm Vụ Fanpage\n"; 
-echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Nhập ".$do."[".$vang."6".$do."]".$luc." Nhiệm Vụ Share\n"; 
-echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Nhập ".$do."[".$vang."7".$do."]".$luc." Nhiệm Vụ Tham Gia Group \n"; 
-echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Nhập ".$do."[".$vang."8".$do."]".$luc." Nhiệm Vụ Cảm Xúc CMT\n"; 
-echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Nhập Chế Độ: $vang"; 
+echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."1".$do."]".$luc."  Like\n"; 
+echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."2".$do."]".$luc."  Follow\n"; 
+echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."3".$do."]".$luc."  Awaited\n"; 
+echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."4".$do."]".$luc."  Comment\n"; 
+echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."5".$do."]".$luc."  Fanpage\n"; 
+echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."6".$do."]".$luc."  Share\n"; 
+echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."7".$do."]".$luc."  Bergabung Group \n"; 
+echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."8".$do."]".$luc."  Awaited\n"; 
+echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Pilih Tools ( Recommended 2 ): $vang"; 
 $nhiemvu = trim(fgets(STDIN));
-echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Nhập Thời Gian Làm Nhiệm Vụ : $vang"; 
+echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Masukan Waktu Misi : $vang"; 
 $thoigianmin = trim(fgets(STDIN));
 $thoigianmax = $thoigianmin;
-echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Chống Block Sau Mấy Nhiệm Vụ: $vang"; 
+echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Waktu Block Misi : $vang"; 
 $xxxxx = trim(fgets(STDIN));
-echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Sau ".$vang.$xxxxx.$luc." Dừng Thời Gian: $vang"; 
+echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Setelah ".$vang.$xxxxx.$luc." Waktu Berhenti: $vang"; 
 $delaybl = trim(fgets(STDIN));
-echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Đổi Cấu Hình Sau: $vang"; 
+echo $do."[".$luc."●".$do."] ".$trang."=> ".$Total Misi: $vang"; 
 $doinick = trim(fgets(STDIN));
-echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Sau Bao Nhiêu Nhiệm Vụ Rồi Dừng: $vang"; 
+echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Total Misi Berhenti: $vang"; 
 $dungtool = trim(fgets(STDIN));
 sleep(1);
 for($i=0; $i<=15; $i++){
