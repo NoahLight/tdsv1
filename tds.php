@@ -326,9 +326,9 @@ echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Waktu Block Misi : $vang";
 $xxxxx = trim(fgets(STDIN));
 echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Setelah ".$vang.$xxxxx.$luc." Waktu Berhenti: $vang"; 
 $delaybl = trim(fgets(STDIN));
-echo $do."[".$luc."●".$do."] ".$trang."=> ".$Total Misi: $vang"; 
+echo $do."[".$luc."●".$do."] ".$trang."=> ".$"Total Misi": $vang"; 
 $doinick = trim(fgets(STDIN));
-echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Total Misi Berhenti: $vang"; 
+echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Total Misi Berhenti": $vang"; 
 $dungtool = trim(fgets(STDIN));
 sleep(1);
 for($i=0; $i<=15; $i++){
