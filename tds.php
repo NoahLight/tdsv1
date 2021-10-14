@@ -96,7 +96,7 @@ usleep(100000);
 @system('clear');
 echo $white."Server Pengujian".$green."
 ╔═════════════════════╗
-║".$yellow." █ █".$white." █ █ █ █ █ █ █ █ ".$green."║  20% Mohon Tunggu
+║".$Blue." █ █".$white." █ █ █ █ █ █ █ █ ".$green."║  20% Mohon Tunggu
 ╚═════════════════════╝";
 usleep(100000);
 @system('clear');
@@ -108,7 +108,7 @@ usleep(100000);
 @system('clear');
 echo $yellow."Server Pengujian".$green."
 ╔═════════════════════╗
-║".$yellow." █ █ █ █".$white." █ █ █ █ █ █ ".$green."║  40% Mohon Tunggu
+║".$Blue." █ █ █ █".$white." █ █ █ █ █ █ ".$green."║  40% Mohon Tunggu
 ╚═════════════════════╝";
 usleep(100000);
 @system('clear');
@@ -120,7 +120,7 @@ usleep(100000);
 @system('clear');
 echo $cyan."Server Pengujian".$green."
 ╔═════════════════════╗
-║".$yellow." █ █ █ █ █ █".$white." █ █ █ █ ".$green."║  60% Mohon Tunggu
+║".$Blue." █ █ █ █ █ █".$white." █ █ █ █ ".$green."║  60% Mohon Tunggu
 ╚═════════════════════╝";
 usleep(100000);
 @system('clear');
@@ -132,7 +132,7 @@ usleep(100000);
 @system('clear');
 echo $purple."Server Pengujian".$green."
 ╔═════════════════════╗
-║".$yellow." █ █ █ █ █ █ █ █".$white." █ █ ".$green."║  80% Mohon Tunggu
+║".$Blue." █ █ █ █ █ █ █ █".$white." █ █ ".$green."║  80% Mohon Tunggu
 ╚═════════════════════╝";
 usleep(100000);
 @system('clear');
@@ -144,7 +144,7 @@ usleep(100000);
 @system('clear');
 echo $BRed."Server Pengujian".$green."
 ╔═════════════════════╗
-║".$yellow." █ █ █ █ █ █ █ █ █ █".$green." ║  100% Mohon Tunggu
+║".$Blue." █ █ █ █ █ █ █ █ █ █".$green." ║  100% Mohon Tunggu
 ".$green."╚═════════════════════╝";
 usleep(200000);
 @system('clear');
@@ -286,7 +286,7 @@ usleep(2500);
 echo $red."-";
 }
 echo "\n";
-echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$luc."Hari Ini Adalah Tanggal $vang$ngay Bulan $luc$bulan Tahun $hong$nam\n";
+echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$luc. "Hari Ini Adalah Tanggal $vang$ngay Bulan $luc$bulan Tahun $hong$nam\n";
 echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$hong." Recode : Aditya And Shelly\n";
 echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$blu." https://www.facebook.com/shubham.vishwakrma.3532\n";
 echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$cyan." Wa : 085332xxx\n";
@@ -311,12 +311,12 @@ usleep(20000);
 echo "\n";
 echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."1".$do."]".$luc." Misi Like\n"; 
 echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."2".$do."]".$luc." Misi Follow\n"; 
-echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."3".$do."]".$luc." Misi Ga Tau\n"; 
+echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."3".$do."]".$luc." Misi Love\n"; 
 echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."4".$do."]".$luc." Misi Comment\n"; 
 echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."5".$do."]".$luc." Misi Fanpage\n"; 
 echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."6".$do."]".$luc." Misi Share\n"; 
-echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."7".$do."]".$luc." Gabung Group \n"; 
-echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."8".$do."]".$luc." CMT\n"; 
+echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."7".$do."]".$luc." NO INGFO \n"; 
+echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."8".$do."]".$luc." NO INGFO\n"; 
 echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Pilih Misi :"; 
 $nhiemvu = trim(fgets(STDIN));
 echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Masukan Waktu Misi : $vang"; 
