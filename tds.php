@@ -286,7 +286,7 @@ usleep(2500);
 echo $red."-";
 }
 echo "\n";
-echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$luc."Hari Ini Adalah $vang$ngay Bulan $luc$bulan Tahun $hong$nam\n";
+echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$luc."Hari Ini Adalah Tanggal $vang$ngay Bulan $luc$bulan Tahun $hong$nam\n";
 echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$hong." Recode : Aditya And Shelly\n";
 echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$blu." https://www.facebook.com/shubham.vishwakrma.3532\n";
 echo "$res ~".$red."[".$green."✓".$red."]".$res." =>".$cyan." Wa : 085332xxx\n";
@@ -315,9 +315,9 @@ echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."3".$d
 echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."4".$do."]".$luc." Misi Comment\n"; 
 echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."5".$do."]".$luc." Misi Fanpage\n"; 
 echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."6".$do."]".$luc." Misi Share\n"; 
-echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."7".$do."]".$luc." Misi Gabung Group \n"; 
+echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."7".$do."]".$luc." Gabung Group \n"; 
 echo $do."[".$luc."✔".$do."] ".$trang."=> ".$luc."Pilih ".$do."[".$vang."8".$do."]".$luc." CMT\n"; 
-echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Pilih Misi ( Recommended 2 )"; 
+echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Pilih Misi :"; 
 $nhiemvu = trim(fgets(STDIN));
 echo $do."[".$luc."●".$do."] ".$trang."=> ".$luc."Masukan Waktu Misi : $vang"; 
 $thoigianmin = trim(fgets(STDIN));
